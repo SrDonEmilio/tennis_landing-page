@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6796147f595cf1adf38e0aa3da2c9a60",
+    "revision": "e433e359493063b182ded33077c01d29",
     "url": "/tennis_landing-page/index.html"
   },
   {
-    "revision": "739bf7dfcde674719636",
+    "revision": "24a66c88d55be97ed831",
     "url": "/tennis_landing-page/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "297e4fe2b6da83d93f66",
-    "url": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css"
+    "revision": "fb86138e7c6ee2981ae1",
+    "url": "/tennis_landing-page/static/css/main.82c503a5.chunk.css"
   },
   {
-    "revision": "739bf7dfcde674719636",
-    "url": "/tennis_landing-page/static/js/2.47f7a1dd.chunk.js"
+    "revision": "24a66c88d55be97ed831",
+    "url": "/tennis_landing-page/static/js/2.d454c311.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tennis_landing-page/static/js/2.47f7a1dd.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/tennis_landing-page/static/js/2.d454c311.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "297e4fe2b6da83d93f66",
-    "url": "/tennis_landing-page/static/js/main.e243c075.chunk.js"
+    "revision": "fb86138e7c6ee2981ae1",
+    "url": "/tennis_landing-page/static/js/main.022c9570.chunk.js"
   },
   {
     "revision": "b9bf4a5655962abef0e9",
