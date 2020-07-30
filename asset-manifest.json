@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css",
-    "main.js": "/tennis_landing-page/static/js/main.30e50920.chunk.js",
-    "main.js.map": "/tennis_landing-page/static/js/main.30e50920.chunk.js.map",
+    "main.js": "/tennis_landing-page/static/js/main.e50090ba.chunk.js",
+    "main.js.map": "/tennis_landing-page/static/js/main.e50090ba.chunk.js.map",
     "runtime-main.js": "/tennis_landing-page/static/js/runtime-main.1b4266de.js",
     "runtime-main.js.map": "/tennis_landing-page/static/js/runtime-main.1b4266de.js.map",
     "static/css/2.764ccc25.chunk.css": "/tennis_landing-page/static/css/2.764ccc25.chunk.css",
     "static/js/2.8bf6b216.chunk.js": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js",
     "static/js/2.8bf6b216.chunk.js.map": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js.map",
     "index.html": "/tennis_landing-page/index.html",
-    "precache-manifest.ea4a6a96959b2456250f21c56e5cba8a.js": "/tennis_landing-page/precache-manifest.ea4a6a96959b2456250f21c56e5cba8a.js",
+    "precache-manifest.48b3aab9f3fc1905094ede3943a3ed9e.js": "/tennis_landing-page/precache-manifest.48b3aab9f3fc1905094ede3943a3ed9e.js",
     "service-worker.js": "/tennis_landing-page/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/tennis_landing-page/static/css/2.764ccc25.chunk.css.map",
     "static/css/main.3bc4f335.chunk.css.map": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.8bf6b216.chunk.js",
     "static/css/main.3bc4f335.chunk.css",
-    "static/js/main.30e50920.chunk.js"
+    "static/js/main.e50090ba.chunk.js"
   ]
 }

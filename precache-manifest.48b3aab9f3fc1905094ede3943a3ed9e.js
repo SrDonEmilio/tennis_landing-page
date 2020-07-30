@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2241cc07ca11230bad2efe62f20b82e",
+    "revision": "4350399e209ca046eea610da11a4d8f7",
     "url": "/tennis_landing-page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tennis_landing-page/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "41bcb688044efc27aa72",
+    "revision": "2f401e436047e27d60e8",
     "url": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41bcb688044efc27aa72",
-    "url": "/tennis_landing-page/static/js/main.30e50920.chunk.js"
+    "revision": "2f401e436047e27d60e8",
+    "url": "/tennis_landing-page/static/js/main.e50090ba.chunk.js"
   },
   {
     "revision": "b9bf4a5655962abef0e9",
