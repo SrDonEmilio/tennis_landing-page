@@ -1,0 +1,57 @@
+#header
+    position: absolute
+    width: 100%
+
+    nav
+        display: inline-block
+        margin-top: 44px
+
+        ul
+            display: flex
+            justify-content: space-between
+            padding: 0
+            height: 37px
+
+        li
+            display: inline-block
+
+        a
+            line-height: 37px
+            letter-spacing: 1.5px
+            position: relative
+
+            &.active
+                font-family: 'HelveticaNeueBold'
+                letter-spacing: 1.4px
+
+    #main-menu
+        margin-left: 173px
+
+        ul
+            width: 579px            
+            
+        a
+
+            &:after
+                content: ''
+                position: absolute
+                width: 0px
+                height: 2px
+                background-color: white
+                bottom: -70%
+                left: 0
+                transition: .3s
+
+            &.active::after
+                width: 17px
+
+            &:hover::after
+                width: 17px
+
+    #language-menu
+        font-size: 13px
+        float: right
+        margin-right: 94px
+
+        ul
+            width: 62px
