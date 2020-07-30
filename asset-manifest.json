@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css",
-    "main.js": "/tennis_landing-page/static/js/main.e50090ba.chunk.js",
-    "main.js.map": "/tennis_landing-page/static/js/main.e50090ba.chunk.js.map",
+    "main.js": "/tennis_landing-page/static/js/main.e243c075.chunk.js",
+    "main.js.map": "/tennis_landing-page/static/js/main.e243c075.chunk.js.map",
     "runtime-main.js": "/tennis_landing-page/static/js/runtime-main.1b4266de.js",
     "runtime-main.js.map": "/tennis_landing-page/static/js/runtime-main.1b4266de.js.map",
     "static/css/2.764ccc25.chunk.css": "/tennis_landing-page/static/css/2.764ccc25.chunk.css",
-    "static/js/2.8bf6b216.chunk.js": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js",
-    "static/js/2.8bf6b216.chunk.js.map": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js.map",
+    "static/js/2.47f7a1dd.chunk.js": "/tennis_landing-page/static/js/2.47f7a1dd.chunk.js",
+    "static/js/2.47f7a1dd.chunk.js.map": "/tennis_landing-page/static/js/2.47f7a1dd.chunk.js.map",
     "index.html": "/tennis_landing-page/index.html",
-    "precache-manifest.48b3aab9f3fc1905094ede3943a3ed9e.js": "/tennis_landing-page/precache-manifest.48b3aab9f3fc1905094ede3943a3ed9e.js",
+    "precache-manifest.791010c2603210d4d4c2e1337661c89b.js": "/tennis_landing-page/precache-manifest.791010c2603210d4d4c2e1337661c89b.js",
     "service-worker.js": "/tennis_landing-page/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/tennis_landing-page/static/css/2.764ccc25.chunk.css.map",
     "static/css/main.3bc4f335.chunk.css.map": "/tennis_landing-page/static/css/main.3bc4f335.chunk.css.map",
-    "static/js/2.8bf6b216.chunk.js.LICENSE.txt": "/tennis_landing-page/static/js/2.8bf6b216.chunk.js.LICENSE.txt",
+    "static/js/2.47f7a1dd.chunk.js.LICENSE.txt": "/tennis_landing-page/static/js/2.47f7a1dd.chunk.js.LICENSE.txt",
     "static/media/index.sass": "/tennis_landing-page/static/media/HelveticaNeueRegular.fcccfdfa.woff",
     "static/media/Home.sass": "/tennis_landing-page/static/media/group.59772215.jpg",
     "static/media/group-10.jpg": "/tennis_landing-page/static/media/group-10.ebe205af.jpg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.1b4266de.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.8bf6b216.chunk.js",
+    "static/js/2.47f7a1dd.chunk.js",
     "static/css/main.3bc4f335.chunk.css",
-    "static/js/main.e50090ba.chunk.js"
+    "static/js/main.e243c075.chunk.js"
   ]
 }
