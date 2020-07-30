@@ -4,6 +4,7 @@ import { NavLink } from 'react-router-dom';
 import './Header.sass'
 
 import imgLogo from '../../img/fill-2.png'
+import imgMenu from '../../img/open-menu.png'
 
 const Header = () => {
     return (
@@ -13,6 +14,7 @@ const Header = () => {
                     <img src={imgLogo} alt="Logo"/>
                 </NavLink>
             </div>
+            <div id="menu-icon"><img src={imgMenu} alt="Menu"/></div>
             <nav id="main-menu">
                 <ul>
                     <li>

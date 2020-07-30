@@ -17,7 +17,7 @@ const Home = () => {
                 <Link className="button" to="about">ACERCA DE NOSOTROS <img src={imgArrow} alt="arrow" id="arrow-button"/></Link>
             </div>
             <div id="second">
-                <h2>Raquetas.Accesorios.<br/>Pelotas</h2>
+                <h2>Raquetas.Accesorios.<br/>Pelotas.</h2>
                 <div id="description">
                     <p>Conoce nuestras raquetas y aprende a jugar Tennis como un profesional</p>
                     <Link className="button" to="history">HISTORIA <img src={imgArrow} alt="arrow" id="arrow-button"/></Link>

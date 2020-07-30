@@ -2,6 +2,7 @@
 
 #home
     color: white
+    overflow-x: hidden
     
     div
         max-width: 100%
@@ -57,7 +58,7 @@
 
     #second
         background-color: #f3f4f8
-        height: 392px;
+        min-height: 392px;
         padding-top: 72px
         padding-left: 34%
 
@@ -104,7 +105,7 @@
                 transform: translateX(10px)
 
     #third
-        height: 468px
+        min-height: 468px
         display: inline-flex
      
         #raquetas-slider
@@ -122,23 +123,46 @@
         background-repeat: no-repeat
         background-size: cover
         height: 586px
+        margin-top: -6px
 
 @media screen and (max-width: 1024px)
     #home
         #first
             #white-line
                 left: 80px
+
+            h1
+                width: 610px
         
         #second
             padding-left: 25%
 
             .button
-                margin-left: 10px
+                margin: 20px 0
 
 @media screen and (max-width: 425px)
     #home
         #first
-            padding: 100px
+            padding: 90px
 
             h1
                 width: 80%
+
+            .button
+                width: 230px
+                padding-left: 10px
+
+        #second
+            padding-left: 8%
+            h2
+                font-size: 30px
+
+            #description
+                flex-direction: column;
+
+        #third
+            display: block
+
+            #raquetas-slider
+                width: 100%
+                padding: 25px

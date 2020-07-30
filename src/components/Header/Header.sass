@@ -2,6 +2,9 @@
     position: absolute
     width: 100%
 
+    #menu-icon 
+        display: none
+
     #logo-header
         position: absolute
         width: 37px
@@ -63,13 +66,24 @@
         ul
             width: 62px
 
-@media screen and (max-width: 425px)
+@media screen and (max-width: 768px)
     #header
         #logo-header
             margin-left: 0
             width: 100%
             display: flex
             justify-content: center
+
+        #menu-icon 
+            width: 37px
+            height: 37px
+            display: inline-block
+            margin: 22px
+
+            img
+                width: inherit
+                height: inherit
+                filter: invert(1)
 
         nav
             display: none

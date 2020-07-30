@@ -29,12 +29,20 @@ const Footer = () => {
                     </li>
                 </ul>
             </nav>
-            <ul>
+            <ul id="social-icons">
                 <li>
                     <a className="social-icon" id="linkedin" href="#linkedin"><img src={imgLinkedin} alt="Linkedin icon"/></a>
+                </li>
+                <li>
                     <a className="social-icon" id="vimeo" href="#vimeo"><img src={imgVimeo} alt="Vimeo icon"/></a>
+                </li>
+                <li>
                     <a className="social-icon" id="instagram" href="#instagram"><img src={imgInstagram} alt="Instagram icon"/></a>
+                </li>
+                <li>
                     <a className="social-icon" id="twitter" href="#twitter"><img src={imgTwitter} alt="Twitter icon"/></a>
+                </li>
+                <li>
                     <a className="social-icon" id="facebook" href="#facebook"><img src={imgFacebook} alt="Facebook icon"/></a>
                 </li>
             </ul>
