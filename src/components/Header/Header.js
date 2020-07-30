@@ -9,7 +9,9 @@ const Header = () => {
     return (
         <div id="header">
             <div id="logo-header">
-                <img src={imgLogo} alt="Logo"/>
+                <NavLink exact to="/">
+                    <img src={imgLogo} alt="Logo"/>
+                </NavLink>
             </div>
             <nav id="main-menu">
                 <ul>

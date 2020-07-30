@@ -26,16 +26,16 @@ const Home = () => {
             <div id="third">
                 <CarrouselHome />
                 <div id="raquetas-slider">
-                    <div class="raqueta">
+                    <div className="raqueta">
                         <img src={imgRaqueta} alt="Raqueta 1"/>
                     </div>
-                    <div class="raqueta">
+                    <div className="raqueta">
                         <img src={imgRaqueta} alt="Raqueta 1"/>
                     </div>
-                    <div class="raqueta">
+                    <div className="raqueta">
                         <img src={imgRaqueta} alt="Raqueta 1"/>
                     </div>      
-                    <div class="raqueta">
+                    <div className="raqueta">
                         <img src={imgRaqueta} alt="Raqueta 1"/>
                     </div>                    
                 </div>

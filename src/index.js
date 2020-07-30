@@ -7,9 +7,9 @@ import 'normalize.css'
 import './index.sass'
 
 ReactDOM.render(
-  <React.StrictMode>
+  <>
     <App />
-  </React.StrictMode>,
+  </>,
   document.getElementById('root')
 );
 

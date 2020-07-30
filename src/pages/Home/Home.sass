@@ -3,6 +3,9 @@
 #home
     color: white
     
+    div
+        max-width: 100%
+    
     #first
         background-image: url('../../img/group.jpg')
         background-size: cover
@@ -119,3 +122,23 @@
         background-repeat: no-repeat
         background-size: cover
         height: 586px
+
+@media screen and (max-width: 1024px)
+    #home
+        #first
+            #white-line
+                left: 80px
+        
+        #second
+            padding-left: 25%
+
+            .button
+                margin-left: 10px
+
+@media screen and (max-width: 425px)
+    #home
+        #first
+            padding: 100px
+
+            h1
+                width: 80%
