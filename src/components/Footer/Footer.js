@@ -8,6 +8,7 @@ import imgVimeo from '../../img/group-24.png'
 import imgInstagram from '../../img/group-25.png'
 import imgTwitter from '../../img/group-22.png'
 import imgFacebook from '../../img/group-26.png'
+import imgLogo from '../../img/fill-2_2.png'
 
 const Footer = () => {
     return (
@@ -37,6 +38,9 @@ const Footer = () => {
                     <a className="social-icon" id="facebook" href="#facebook"><img src={imgFacebook} alt="Facebook icon"/></a>
                 </li>
             </ul>
+            <div id="logo-footer">
+                <img src={imgLogo} alt="Logo"/>
+            </div>
         </div>
     );
 };

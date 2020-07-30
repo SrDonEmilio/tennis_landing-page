@@ -3,9 +3,14 @@ import { NavLink } from 'react-router-dom';
 
 import './Header.sass'
 
+import imgLogo from '../../img/fill-2.png'
+
 const Header = () => {
     return (
         <div id="header">
+            <div id="logo-header">
+                <img src={imgLogo} alt="Logo"/>
+            </div>
             <nav id="main-menu">
                 <ul>
                     <li>

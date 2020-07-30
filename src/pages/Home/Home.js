@@ -6,6 +6,8 @@ import './Home.sass'
 import imgArrow from '../../img/path.png'
 import imgRaqueta from '../../img/group-10.jpg'
 
+import CarrouselHome from '../../components/CarrouselHome/CarrouselHome'
+
 const Home = () => {
     return (
         <div id="home">
@@ -22,10 +24,7 @@ const Home = () => {
                 </div>
             </div>
             <div id="third">
-                <div id="carrousel">
-                    <h3>Nuestras <span>Raquetas</span></h3>
-                    <p>Conoce nuestras raquetas y aprende a jugar Tennis cómo un profesional</p>
-                </div>
+                <CarrouselHome />
                 <div id="raquetas-slider">
                     <div class="raqueta">
                         <img src={imgRaqueta} alt="Raqueta 1"/>
